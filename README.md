@@ -5,7 +5,7 @@ feature would be worked on in a seperate branch. Then, once everyone was
 finished, all the branches would be merged into dev, where bugs would be
 ironed out. Once tested, everything would be commited to master.
 
-Unfortunately, this turned into a hot mess, and now Alex and Andrew have to
+Unfortunately, this turned into a hot mess (because Alex doesn't know how to plan anything), and now Alex and Andrew have to
 fix everything.
 
 Time to start the [Wollack method](http://71.121.167.52:9001/alex/2016-stronghold/wikis/wollack-method)!
